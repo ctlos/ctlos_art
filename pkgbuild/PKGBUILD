@@ -3,8 +3,8 @@
 srcname=ctlos_art
 pkgname=ctlos-wall
 pkgdesc='Wallpaper'
-pkgver=1.1.9
-pkgrel=4
+pkgver=1.2.0
+pkgrel=1
 arch=('any')
 url="https://github.com/ctlos/ctlos_art"
 license=('GPL')
